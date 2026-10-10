@@ -1,0 +1,6 @@
+{
+  "name": "StudyBuddy AI",
+  "description": "Smart student study dashboard featuring AI quiz generator, study timetable, homework tracker, test marks analytics, and interactive AI tutor for school exhibition.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
